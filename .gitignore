@@ -1,0 +1,7 @@
+/.idea/vcs.xml
+.gradle
+/local.properties
+.DS_Store
+/build
+/captures
+/.idea/workspace.xml
